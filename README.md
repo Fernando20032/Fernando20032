@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on gaming programing
+- 🌱 I’m currently learning about game code
+- 👯 I’m looking to collaborate on my game
 
 <!--
 **Fernando20032/Fernando20032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
